@@ -1,0 +1,3 @@
+#!./TimGame/venv/bin/python
+
+print('Hello')
